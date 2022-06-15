@@ -2,7 +2,7 @@
 
 I’m a DevOps engineer / sysadmin, tech and open source enthusiast by day and amateur photographer and traveler in my spare time. I also 3d print and build/repair/break stuff regularly in my garage.
 
-- 🔭 I worked as a sysadmin, software engineer and currently with [smartkyc](https://wwww.smartkyc.com).
+- 🔭 I worked as a sysadmin, software engineer and I'm currently lead devops at [smartkyc](https://wwww.smartkyc.com).
 - 🌱 I'm maintaining several ansible roles and docker images.
 - 👯 If you run an opensource project and need systems/ops/devops support I might be able to help.
 - 📫 You can get in touch via [twitter](https://twitter.com/filviu), [github](https://github.com/filviu/filviu/issues) or linkedin.
