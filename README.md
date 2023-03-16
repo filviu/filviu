@@ -5,7 +5,7 @@ I’m a DevOps engineer / sysadmin, tech and open source enthusiast by day and a
 - 🔭 I worked as a DevOPS engineer, sysadmin, software engineer and currently I'm lead devops at [smartkyc](https://wwww.smartkyc.com).
 - 🌱 I'm maintaining several ansible roles and docker images.
 - 👯 If you run an opensource project and need systems/ops/devops support I might be able to help.
-- 📫 You can get in touch via [twitter](https://twitter.com/filviu), [github](https://github.com/filviu/filviu/issues) or linkedin.
+- 📫 You can get in touch via [mastodon](https://fosstodon.org/@filviu), [github](https://github.com/filviu/filviu/issues) or better yet check my [.me page](https://filviu.me).
 
 <!--
 **filviu/filviu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
